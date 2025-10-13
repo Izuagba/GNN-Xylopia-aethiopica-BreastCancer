@@ -70,7 +70,7 @@ Therapies that inhibit ERα—such as **Tamoxifen** and **Fulvestrant**—are ef
 
 <p align="center">
   <img src="https://github.com/Izuagba/GNN-Xylopia-aethiopica-BreastCancer/blob/main/images/Human%20estrogen%20receptor%20alpha%20ligand-binding%20domain%20in%20complex%20with%20compound%201D%20.png" width="45%"/>
-  <img src="https://github.com/Izuagba/GNN-Xylopia-aethiopica-BreastCancer/blob/main/images/REDOCK-SUPERPOSITION.tif" width="45%"/>
+  <img src="https://github.com/Izuagba/GNN-Xylopia-aethiopica-BreastCancer/blob/main/images/REDOCK-SUPERPOSITION.png" width="45%"/>
 </p>
 
 <p align="center"><em>(Left) Xylopia aethiopica compound (1D) bound to ERα. (Right) Superposition of docked and redocked structures.</em></p>
