@@ -2,7 +2,7 @@
 
 ---
 
-## 🌿 Overview
+## Overview
 This repository presents an **AI-driven computational framework** that integrates **Graph Neural Networks (GNNs)** and **molecular docking** to predict the **inhibitory activity of phytocompounds derived from *Xylopia aethiopica*** against the **Human Estrogen Receptor Alpha (ERα)**—a major therapeutic target in **estrogen receptor–positive (ER⁺) breast cancer**.
 
 The project bridges **cheminformatics**, **machine learning**, and **structural biology**, demonstrating how **graph-based molecular representations** can be used to discover natural compounds with potential **anti-breast-cancer properties**.
@@ -20,7 +20,6 @@ Therapies that inhibit ERα—such as **Tamoxifen** and **Fulvestrant**—are ef
 - 🧩 **Graph Neural Network (GNN)** modeling for predicting inhibitory activity  
 - ⚛️ **Molecular docking** validation of *Xylopia aethiopica* phytocompounds against ERα (PDB ID: 2IOK)  
 - 🌿 **Natural product-based inhibitor discovery** targeting breast-cancer pathways  
-- 🤖 **AI-driven workflow** for molecular representation and bioactivity prediction  
 - 📊 Visualization of docking poses, interaction maps, and performance metrics  
 
 ---
@@ -42,7 +41,6 @@ Therapies that inhibit ERα—such as **Tamoxifen** and **Fulvestrant**—are ef
 | `data/` | Raw and processed datasets of phytochemicals |
 | `notebooks/` | Jupyter notebooks for preprocessing, model training, and analysis |
 | `test_checkpoints_reg/` | Trained GNN models and configuration files |
-| `docking/` | Docking receptor (2IOK), prepared ligands, and docking results |
 | `images/` | Figures, molecular interaction plots, and workflow diagrams |
 
 ---
@@ -93,7 +91,7 @@ Therapies that inhibit ERα—such as **Tamoxifen** and **Fulvestrant**—are ef
 |-----------|-------|
 | **Programming & Modeling** | Python 3, PyTorch Geometric, Chemprop, Scikit-learn |
 | **Cheminformatics** | RDKit, PaDEL-Descriptor |
-| **Docking & Visualization** | AutoDock Vina, PyRx, ChimeraX, Discovery Studio |
+| **Docking & Visualization** | Maestro Schrodinger Software |
 | **Data Processing** | NumPy, Pandas, Matplotlib, Seaborn |
 
 ## ✍️ Author
