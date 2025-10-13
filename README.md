@@ -3,9 +3,9 @@
 ---
 
 ## Overview
-This repository presents an **AI-driven computational framework** that integrates **Graph Neural Networks (GNNs)** and **molecular docking** to predict the **inhibitory activity of phytocompounds derived from *Xylopia aethiopica*** against the **Human Estrogen Receptor Alpha (ERα)**—a major therapeutic target in **estrogen receptor–positive (ER⁺) breast cancer**.
+This repository presents a **computational-driven framework** that integrates **Graph Neural Networks (GNNs)** and **molecular docking** to predict the **inhibitory activity of phytocompounds derived from *Xylopia aethiopica*** against the **Human Estrogen Receptor Alpha (ERα)**—a major therapeutic target in **estrogen receptor–positive (ER⁺) breast cancer**.
 
-The project bridges **cheminformatics**, **machine learning**, and **structural biology**, demonstrating how **graph-based molecular representations** can be used to discover natural compounds with potential **anti-breast-cancer properties**.
+The project bridges **cheminformatics**, **machine learning**, and **structural biology**, demonstrating how **graph-based molecular representations** can be utilized to discover natural compounds with potential **anti-breast cancer properties**.
 
 ---
 
