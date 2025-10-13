@@ -1,0 +1,2 @@
+Task,Mean rmse,Standard deviation rmse,Fold 0 rmse,Fold 1 rmse
+pChEMBL Value,1.043877092855952,0.10340811590219368,0.9404689769537582,1.1472852087581455
