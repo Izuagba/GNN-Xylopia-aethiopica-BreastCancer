@@ -1,4 +1,4 @@
-# Integrating Graph Neural Networks and Molecular Docking to Predict Xylopia Compounds’ Anti-Breast Cancer Activity 
+# Integrating Graph Neural Networks and Molecular Docking to Predict Xylopia aethiopica Compounds’ Anti-Breast Cancer Activity 
 
 ---
 
